@@ -186,3 +186,49 @@ footer nav ul {
 	margin: 2em
 }
 
+.button_inactive{
+	font-family: 'Syne';
+	font-weight: 700;
+	color: #1D6154;
+	background-color: white;
+	margin : 5px ;
+	width: auto;
+	padding: 10px;
+	text-align: center;
+	height: 40px;
+	border-radius: 60px ;
+	border: solid 1px #1D6154;
+}
+ 
+button:hover{
+	font-family: 'Syne';
+	font-weight: 700;
+	color: #ffffff;
+	background-color: #1D6154;
+	margin : 5px ;
+	width: auto;
+	padding: 10px;
+	text-align: center;
+	height: 40px;
+	border-radius: 60px ;
+	border: solid 1px #1D6154;
+} 
+
+
+.button_active{
+	font-family: 'Syne';
+	font-weight: 700;
+	color: #ffffff;
+	background-color: #1D6154;
+	margin : 5px ;
+	width: auto;
+	padding: 10px;
+	text-align: center;
+	height: 40px;
+	border-radius: 60px ;
+	border: solid 1px #1D6154;
+}
+
+.invisible{
+	display: none;
+}
