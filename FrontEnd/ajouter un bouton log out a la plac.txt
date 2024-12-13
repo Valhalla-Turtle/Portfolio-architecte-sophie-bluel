@@ -1,0 +1,5 @@
+ajouter un bouton log out a la place de login pour vider le localstorage
+
+gerer les styles des boutons filtres
+
+quand un work serra ajouter renvoyer sur la 1 page de la modal
